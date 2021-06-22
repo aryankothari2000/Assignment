@@ -9,7 +9,7 @@ Pool ID.
 
 Also it contains the code which generates the histogram for the base currency trade quantity, which let us know about the number of transactions in different quantity ranges
 
-**3) INSTRUCTIONS TO RUN CODE** 
+**3) INSTRUCTIONS TO RUN CODE** <br/>
 -> Upload the assignment.ipynb file on jupyter-notebook <br/>
 -> Store the querydata.json file on desktop and change it's location in the assignment.ipynb where in the bracket of this f = open(r'C:\Users\LENOVO\Desktop\querydata.json',) <br/>
 -> Run the file uploaded on jupyter notebook<br/>
